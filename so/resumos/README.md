@@ -12,3 +12,4 @@ title: Resumos
 - [Disco Rigido](discoRigido.md)
 - [Sistema de Arquivos](sistemaDeArquivos.md)
 - [Resumo Parcial Livro](resumoLivroSistemasOperacionaisModernos.md)
+- [Notas de Aula](https://drive.google.com/drive/folders/1cQf2fSGk2mhIQ-Ev1VJF9AfxSyxj_JnW)
